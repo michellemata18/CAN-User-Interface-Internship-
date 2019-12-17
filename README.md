@@ -1,5 +1,5 @@
 # CAN-User-Interface-Internship-
-This repository includes the C-programming needed to read CAN frames through a UIR
+This repository includes the C-programming needed to read CAN frames through a UIR. This project was done using LabWindows/CVI.
 
 This repository only includes a C file because other #include files are property of Continental AG.
 
